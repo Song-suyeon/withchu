@@ -1,0 +1,53 @@
+*{font-family: "맑은 고딕",Arial, Helvetica, sans-serif;}
+#wrapper
+{
+    width:1000px;
+    margin:0 auto;
+}
+
+header{text-align: center;}
+header h1{
+    color: #FF6347;
+    height: 80px;
+    margin: o auto;
+    display: inline;
+    text-align: center;
+}
+ul {list-style-type: none;}
+a{ text-decoration:none ;}
+nav ul {
+    text-align: center; border-top: 2px solid #7c9b0c;
+    border-bottom: 2px solid #7c9b0c; padding: 15px 10px;
+}
+nav ul li {
+    display: inline;
+    padding: 15px 20px;
+    letter-spacing: 5px;
+    margin: 0 auto;
+}
+nav ul li:hover {
+    background-color: #d36cd6;
+}
+nav li a:hover{
+    color:wheat;
+}
+body{
+    margin: 0px auto;
+    max-width: 1000px;
+}
+#link {border: 3px solid rgb
+   padding: 5px 5px;
+   margin: 0px auto;
+   border-bottom: 5px;
+}
+#login {border: 3px solid rgb(red, green, blue)
+    padding: 5px 5px;
+    border-top: 5px;
+ }
+section{display: flex;}
+article{width: 85%;}
+aside{width: 20%;}
+footer{border-top: 10px;}
+© 2021 GitHub, Inc.
+Terms
+Privacy

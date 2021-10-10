@@ -1,0 +1,39 @@
+* {font-family:"맑은 고딕"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+header h1{display:inline;}
+header img{height:300px;}
+ul{list-style-type:none;}
+a{text-decoration:none;}
+nav ul{
+    text-align: center; border-top:2.5px solid #7c9b0c;
+    border-bottom:2.5px solid #7c9b0c; padding: 15px 10px;}
+body {
+  background-color: rgb(224, 191, 101);
+  }
+nav ul li {
+    display: inline;
+    padding: 15px 20px;
+    letter-spacing: 3px;
+    margin: 0 30px
+}
+nav ul li:hover {
+    background-color: #d36cd6;
+}
+nav li a:hover{
+    color:wheat;
+}
+<p style="text-align:center;">
+</style>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+    <div id="wrapper"
+</div>
+</body>
+
+<body>
+    <header>
+        <html>
+            <title>W3.CSS</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        
